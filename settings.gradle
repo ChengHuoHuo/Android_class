@@ -1,0 +1,1 @@
+include ':app', ':testbroadcast', ':testsrivice', ':testsqlite', ':testcontentprovider', ':testthread', ':testhttpurlconnection'
